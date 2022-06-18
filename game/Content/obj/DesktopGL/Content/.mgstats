@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"d:/Coding/Monogame Testing/game/Content/crosshairs.png","d:/Coding/Monogame Testing/game/Content/bin/DesktopGL/Content/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.1146714
+"d:/Coding/Monogame Testing/game/Content/galleryFont.spritefont","d:/Coding/Monogame Testing/game/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.0911824
+"d:/Coding/Monogame Testing/game/Content/sky.png","d:/Coding/Monogame Testing/game/Content/bin/DesktopGL/Content/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.2608455
+"d:/Coding/Monogame Testing/game/Content/target.png","d:/Coding/Monogame Testing/game/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0114616
